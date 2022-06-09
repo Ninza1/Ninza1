@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**
 
-- 👨‍💻 All of my projects are available at [https://iqbal-portfolio.netlify.app/](https://iqbal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iqbal-portfolio.netlify.app/](https://iqbal-portfolio1.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@iqbal_fp01_025](https://medium.com/@iqbal_fp01_025)
 

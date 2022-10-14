@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninza1" alt="ninza1" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack at Masai School**
+- 🌱 I’m I am looking for a job as a  **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://iqbal-portfolio1.netlify.app/](https://iqbal-portfolio1.netlify.app/)
 

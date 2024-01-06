@@ -7,7 +7,7 @@
 
 - 🌱 I’m I am looking for a job as a  **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://iqbal-portfolio1.netlify.app/](https://iqbal-portfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iqbal-portfolio1.netlify.app/](https://iqbal-portfolio2024.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@iqbal_fp01_025](https://medium.com/@iqbal_fp01_025)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **drp45862@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bLpGdwbi6rPaSIjA2G-HjV3L3M42aQbeU7myMisUKIQ/edit#](https://docs.google.com/document/d/1bLpGdwbi6rPaSIjA2G-HjV3L3M42aQbeU7myMisUKIQ/edit#)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1bLpGdwbi6rPaSIjA2G-HjV3L3M42aQbeU7myMisUKIQ/edit#](https://drive.google.com/file/d/1KEPjuccVGuNyh_udkhALn3ArHfNjFAqH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
